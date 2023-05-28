@@ -1,0 +1,105 @@
+@media (max-width: 1199.98px) {
+    .navbar-nav .nav-item .nav-link {
+        font-size: 12px;
+    }
+
+    .header-text span {
+        font-size: 11px;
+    }
+
+    .about-para{
+        margin-left:50px;
+    }
+
+    .about-para h2{
+        font-size:27px;
+    }
+   
+}
+
+
+@media (max-width: 991.98px) {
+
+    .navbar-toggler-icon{
+        background-color:white;
+    }
+
+    .about-para h2{
+        font-size:17px;
+    }
+
+    .about-para p{
+        font-size:11px;
+    }
+
+    .about-img img{
+        width:100%;
+    }
+
+    .footer-contact a{
+        font-size: 12px;
+    }
+
+    .icon a{
+        font-size: 12px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+
+    .fort h2{
+        font-size:34px;
+    }
+    .fa-solid{
+        font-size:46px;
+    }
+
+    .about-para{
+        padding-top:30px;
+        margin-left:0;
+    }
+
+    .about-para h2{
+        font-size:20px;
+    }
+
+    .about-para p{
+        font-size:15px;
+    }
+
+    .footer-contact a{
+        font-size: 9px;
+    }
+    
+}
+
+@media (max-width: 575.98px) {
+
+    .icon a{
+        font-size: 9px;
+    }
+
+    .fort{
+        font-size:12px;
+    }
+
+    .fort-text p{
+        margin-right:10px;
+    }
+
+    .present-text{
+        width:38%;
+    }
+
+    .present-text p{
+        margin-left:5px;
+    }
+
+    .footer-logo{
+        margin-left:0;
+    }
+
+   
+
+}

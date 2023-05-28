@@ -115,7 +115,7 @@ p {
     background-color: black;
     color: white;
     padding-top: 120px;
-    padding-bottom: 120px;
+    padding-bottom:20px;
 }
 
 .button-type {
@@ -148,6 +148,17 @@ p {
     margin-top: 60px;
 }
 
+.hero .bi{
+    color:#d82f8a;
+    font-size:30px;
+    padding-right:171px;
+}
+
+.bi-chevron-down::before{
+    margin-top: 40px;
+}
+
+/* hero-section-end */
 /* fort-section-start */
 .fort {
     background-color: #dfe6e9;
@@ -215,6 +226,16 @@ p {
 .short-quotation p{
     font-size:23px;
     font-weight:600;
+}
+
+.short-quotation .demo-1{
+    color: white !important;;
+    background-color:black !important;
+}
+
+.short-quotation .demo-1:hover{
+    color:black !important;
+    background-color:white !important;
 }
 /* short-quotation-section-end */
 
